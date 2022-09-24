@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "author": "Rahul Dora",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "wokwi-pi-pico",
+      "id": "pico",
+      "top": 30.66,
+      "left": -23.34,
+      "attrs": { "env": "micropython-20220117-v1.18" }
+    }
+  ],
+  "connections": []
+}
